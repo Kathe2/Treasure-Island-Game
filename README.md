@@ -1,4 +1,4 @@
-# # 🏴‍☠️ Treasure Island – Python Adventure Game
+# 🏴‍☠️ Treasure Island – Python Adventure Game
 
 This is a simple text-based adventure game created as part of the **"100 Days of Code: Python Bootcamp"** by [Angela Yu](https://www.udemy.com/course/100-days-of-code/).  
 The player makes choices at different stages to try and find the hidden treasure.
